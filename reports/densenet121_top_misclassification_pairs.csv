@@ -1,0 +1,6 @@
+﻿file_path,true_class,predicted_class,predicted_confidence,true_class_probability,is_correct,error_count
+C:\Users\Barış\OneDrive\Masaüstü\YZM0206 Proje\data\test\River\River_806.jpg,River,Highway,0.9656449556350708,0.0038366951048374,False,17
+C:\Users\Barış\OneDrive\Masaüstü\YZM0206 Proje\data\test\PermanentCrop\PermanentCrop_334.jpg,PermanentCrop,HerbaceousVegetation,0.987902283668518,0.0114582339301705,False,11
+C:\Users\Barış\OneDrive\Masaüstü\YZM0206 Proje\data\test\AnnualCrop\AnnualCrop_238.jpg,AnnualCrop,PermanentCrop,0.9948563575744628,0.0003313232155051,False,10
+C:\Users\Barış\OneDrive\Masaüstü\YZM0206 Proje\data\test\Highway\Highway_2131.jpg,Highway,River,0.9997368454933168,0.0001959610090125,False,6
+C:\Users\Barış\OneDrive\Masaüstü\YZM0206 Proje\data\test\Residential\Residential_2002.jpg,Residential,Industrial,0.9943424463272096,0.0056222020648419,False,6

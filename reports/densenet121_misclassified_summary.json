@@ -1,0 +1,64 @@
+{
+  "model": "DenseNet121",
+  "total_test_images": 4050,
+  "correct_predictions": 3913,
+  "misclassified_images": 137,
+  "accuracy_from_predictions": 0.9661728395061728,
+  "most_common_error_pairs": [
+    {
+      "true_class": "River",
+      "predicted_class": "Highway",
+      "count": 17
+    },
+    {
+      "true_class": "PermanentCrop",
+      "predicted_class": "HerbaceousVegetation",
+      "count": 11
+    },
+    {
+      "true_class": "AnnualCrop",
+      "predicted_class": "PermanentCrop",
+      "count": 10
+    },
+    {
+      "true_class": "Highway",
+      "predicted_class": "River",
+      "count": 6
+    },
+    {
+      "true_class": "Residential",
+      "predicted_class": "Industrial",
+      "count": 6
+    },
+    {
+      "true_class": "PermanentCrop",
+      "predicted_class": "Highway",
+      "count": 5
+    },
+    {
+      "true_class": "SeaLake",
+      "predicted_class": "River",
+      "count": 5
+    },
+    {
+      "true_class": "HerbaceousVegetation",
+      "predicted_class": "Forest",
+      "count": 4
+    },
+    {
+      "true_class": "Pasture",
+      "predicted_class": "Forest",
+      "count": 4
+    },
+    {
+      "true_class": "PermanentCrop",
+      "predicted_class": "AnnualCrop",
+      "count": 4
+    }
+  ],
+  "outputs": {
+    "predictions_csv": "C:\\Users\\Barış\\OneDrive\\Masaüstü\\YZM0206 Proje\\reports\\densenet121_test_predictions.csv",
+    "misclassified_csv": "C:\\Users\\Barış\\OneDrive\\Masaüstü\\YZM0206 Proje\\reports\\densenet121_misclassified_examples.csv",
+    "figure": "C:\\Users\\Barış\\OneDrive\\Masaüstü\\YZM0206 Proje\\figures\\densenet121_misclassified_examples.png"
+  }
+}

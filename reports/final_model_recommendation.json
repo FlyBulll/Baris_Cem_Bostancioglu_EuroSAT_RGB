@@ -1,0 +1,10 @@
+{
+  "selected_model": "DenseNet121",
+  "reason": "Highest test accuracy, highest macro F1-score, lowest test loss, and strong class-level performance.",
+  "test_accuracy": 0.9661728143692017,
+  "macro_f1": 0.9649512629633895,
+  "weighted_f1": 0.9661804444918124,
+  "test_loss": 0.10646116733551025,
+  "main_baseline_accuracy": 0.8207407593727112,
+  "accuracy_gain_vs_baseline": 0.14543205499649048
+}

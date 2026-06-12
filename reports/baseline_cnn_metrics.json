@@ -1,0 +1,30 @@
+{
+  "model": "Baseline CNN",
+  "test_loss": 0.5135378837585449,
+  "test_accuracy": 0.8207407593727112,
+  "best_val_accuracy": 0.8133333325386047,
+  "epochs_ran": 20,
+  "training_time_seconds": 686.2387478351593,
+  "total_params": 111050,
+  "num_classes": 10,
+  "class_names": [
+    "AnnualCrop",
+    "Forest",
+    "HerbaceousVegetation",
+    "Highway",
+    "Industrial",
+    "Pasture",
+    "PermanentCrop",
+    "Residential",
+    "River",
+    "SeaLake"
+  ],
+  "accuracy": 0.8207407407407408,
+  "balanced_accuracy": 0.8160888888888888,
+  "macro_precision": 0.8155112332185757,
+  "macro_recall": 0.8160888888888888,
+  "macro_f1": 0.8138851474362607,
+  "weighted_precision": 0.8213139966783921,
+  "weighted_recall": 0.8207407407407408,
+  "weighted_f1": 0.8190515891340564
+}
